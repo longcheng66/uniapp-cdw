@@ -1,0 +1,19 @@
+{
+    "id": "liusheng22-barcode",
+    "displayName": "barcode scan scanCode 扫码 自定义扫码",
+    "version": "1.0.0",
+    "description": "通过html5plus的barcode能力，自定义扫码组件、扫码页面",
+    "keywords": [
+        "barcode",
+        "scan",
+        "scanCode",
+        "扫码",
+        "自定义扫码"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}
